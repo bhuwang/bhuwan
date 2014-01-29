@@ -13,7 +13,6 @@ public class TestClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Integer a = 5;
 		String greeting = "Hello World";
 		greeting = greeting.substring(0, 5);
 		System.out.println("Greeting: " + greeting);
